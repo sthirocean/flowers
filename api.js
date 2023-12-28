@@ -1,0 +1,13 @@
+export const api = {
+  "home": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=false&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=home&pk=",
+  "explore": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=false&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=explore&pk=",
+  "profile": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=false&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=profile&pk=",
+  "direct_messaging": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=false&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=direct_messaging&pk=",
+  "stories": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=true&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=stories&pk=",
+  "posts": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=true&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=posts&pk=",
+  "post_images": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=true&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=post_images&pk=",
+  "recommended_users": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=true&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=recommended_users&pk=",
+  "recommended_posts": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=true&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=recommended_posts&pk=",
+  "users": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=true&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=users&pk=",
+  "conversations": "https://script.google.com/a/thecoder.live/macros/s/AKfycbxoQRYagaMm72sUXcxftEumJZk-gXIhlm_vo5JxvyuvATI-93HAFpGIyMSQpANLheDx/exec?original=true&project=ba513ed4-e028-4bf2-8cc7-1b07531a4f12&action=list&endpoint=conversations&pk="
+}
